@@ -1,0 +1,7 @@
+{
+  "win32-x64-prod": {
+    "update": "https://github.com/lthull/myspot-poster-tv-release/releases/download/win32-x64-prod-1.0.2",
+    "install": "https://github.com/lthull/myspot-poster-tv-release/releases/download/win32-x64-prod-1.0.2/poster-tv-app.Setup.1.0.2.exe",
+    "version": "1.0.2"
+  }
+}
