@@ -1,13 +1,13 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/lthull/myspot-poster-tv-release/releases/download/win32-x64-prod-1.0.7",
-    "install": "https://github.com/lthull/myspot-poster-tv-release/releases/download/win32-x64-prod-1.0.7/poster-tv-app.Setup.1.0.7.exe",
-    "version": "1.0.7"
+    "update": "https://github.com/lthull/myspot-poster-tv-release/releases/download/win32-x64-prod-1.0.5",
+    "install": "https://github.com/lthull/myspot-poster-tv-release/releases/download/win32-x64-prod-1.0.5/poster-tv-app.Setup.1.0.5.exe",
+    "version": "1.0.5"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.0.6/poster-tv-app-1.0.6.AppImage",
-    "install": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.0.6/poster-tv-app-1.0.6.AppImage",
-    "version": "1.0.6",
-    "sha256": "88913e95fa691fb6ee9df755635271dc405200c346be51431a570580a20b6a30"
+    "update": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.0.7/poster-tv-app-1.0.7.AppImage",
+    "install": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.0.7/poster-tv-app-1.0.7.AppImage",
+    "version": "1.0.7",
+    "sha256": "d39f7749b1a21dbe4acbdacaf42b3b685f6b72e4507bde4a079de3845355ad76"
   }
 }
