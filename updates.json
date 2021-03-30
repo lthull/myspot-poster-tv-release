@@ -5,9 +5,9 @@
     "version": "1.1.2"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.1.6/poster-tv-app-1.1.6.AppImage",
-    "install": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.1.6/poster-tv-app-1.1.6.AppImage",
-    "version": "1.1.6",
-    "sha256": "ca82897ebfe9d92e6de332cc0d983ca0661bd854a85425725297c426d456785c"
+    "update": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.1.7/poster-tv-app-1.1.7.AppImage",
+    "install": "https://github.com/lthull/myspot-poster-tv-release/releases/download/linux-x64-prod-1.1.7/poster-tv-app-1.1.7.AppImage",
+    "version": "1.1.7",
+    "sha256": "35cc172a9960b4dbfa860af823cf9cd32ff9fd7dde90813380aeb595a7d697dc"
   }
 }
